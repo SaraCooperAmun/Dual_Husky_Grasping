@@ -1,6 +1,8 @@
 # Dual_Husky_Grasping
 Object grasping with Clearpath's dual-UR5 arm Husky using an AR tag and MoveIt! See demo: https://youtu.be/qf7TPQp0qIU
 
+Project done for Multi-Disciplinary Group Project module for MSc in Robotics, Autonomous and Interactive Systems (Heriot-Watt University, Edinburgh).
+
 # Components required to run
 
 - Husky Dual UR5 (Clearpath robotics) and installation of corresponding ROS packages: https://www.clearpathrobotics.com/assets/guides/husky/HuskyDualManip.html
